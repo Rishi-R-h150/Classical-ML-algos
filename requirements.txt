@@ -1,6 +1,7 @@
-numpy
-pandas
-matplotlib
+numpy  # for numerical operations and data manipulation
+pandas # for data manipulation and analysis
+matplotlib 
 scikit-learn
 seaborn
 torch
+joblib  # for better memory effiecient model saving and loading uses cached and pre_recorded pipelines 

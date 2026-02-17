@@ -17,5 +17,6 @@ IRIS = DATASETS_DIR / "Iris.csv"
 SPAM = DATASETS_DIR / "spam.csv"
 WINE = DATASETS_DIR / "WineQT.csv"
 TITANIC = DATASETS_DIR / "Titanic.csv"
+MALL_CUSTOMERS = DATASETS_DIR / "Mall_Customers.csv"
 
 print("settings file executed successfully")

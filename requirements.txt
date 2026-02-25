@@ -5,3 +5,5 @@ scikit-learn
 seaborn
 torch
 joblib   # for better memory effiecient model saving and loading uses cached and pre_recorded pipelines 
+datasets
+tqdm
